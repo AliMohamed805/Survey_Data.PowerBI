@@ -1,6 +1,6 @@
 # 📊 Data Professionals Survey Analysis
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Survey/Screenshot 2025-05-05 001112.png)
 
 
 
